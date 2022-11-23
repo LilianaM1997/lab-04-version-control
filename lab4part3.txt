@@ -107,7 +107,7 @@ echo $PATH
 
 Write down the output of the last command.  It should include your home folder.
 ----------
-:/usr/bin/core_perl:/Users/Lily
+:/usr/bin/core_perl:c/Users/Lily
 
 
 ==========
@@ -119,6 +119,8 @@ hello.sh
 
 It should work now!  What is the output?
 ----------
+$ hello.sh
+hi there!
 
 
 ==========
